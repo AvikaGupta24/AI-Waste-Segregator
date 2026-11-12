@@ -1,0 +1,6 @@
+cardboard
+electronics
+glass
+metal
+organicwaste
+plastic
